@@ -76,7 +76,8 @@ DataAnalysisUsingPython
 
 Data is fetched from the API using the Python `requests` library.
 
-```python
+```
+python
 import requests
 import pandas as pd
 
